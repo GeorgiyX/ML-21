@@ -5,4 +5,4 @@
 
 ## Содержание
 
-* Рубежный контроль №1.
+* Рубежный контроль [№1](https://github.com/GeorgiyX/ML-21/blob/master/rk-1/rk-1.ipynb).
